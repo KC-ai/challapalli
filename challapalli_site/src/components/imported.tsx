@@ -27,12 +27,11 @@ export function imported() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[100dvh] bg-white">
       <div className="max-w-3xl px-6 py-12 text-center space-y-4">
-        <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">Hi, I'm John Doe</h1>
+        <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">Kashyap Challapalli</h1>
         <p className="text-gray-500 text-lg md:text-xl">
-          I'm a software engineer with a passion for building elegant and efficient web applications. In my free time, I
-          enjoy exploring the great outdoors and experimenting with new recipes in the kitchen.
+          Pushing the barriers of human intelligence.
         </p>
       </div>
     </div>
-  )
+  );
 }
