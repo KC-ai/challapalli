@@ -29,7 +29,7 @@ export function imported() {
       <div className="max-w-3xl px-6 py-12 text-center space-y-4">
         <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">Kashyap Challapalli</h1>
         <p className="text-gray-500 text-lg md:text-xl">
-          Pushing the barriers of human intelligence.
+          pushing the barriers of human intelligence
         </p>
       </div>
     </div>
